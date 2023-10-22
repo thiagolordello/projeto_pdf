@@ -1,0 +1,24 @@
+{
+  "name": "projeto_pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagolordello/projeto_pdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagolordello/projeto_pdf/issues"
+  },
+  "homepage": "https://github.com/thiagolordello/projeto_pdf#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.4.0"
+  }
+}
